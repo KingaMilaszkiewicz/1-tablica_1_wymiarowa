@@ -1,0 +1,3 @@
+﻿  1-tablica_1_wymiarowa.cpp
+C:\KINGA\Coding\C++\1-tablica_1_wymiarowa\1-tablica_1_wymiarowa\1-tablica_1_wymiarowa.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  1-tablica_1_wymiarowa.vcxproj -> C:\KINGA\Coding\C++\1-tablica_1_wymiarowa\x64\Debug\1-tablica_1_wymiarowa.exe
